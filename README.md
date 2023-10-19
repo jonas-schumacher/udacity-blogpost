@@ -32,7 +32,7 @@ There is only one notebook containing all the relevant code.
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post
-available [here](http://schumacher.pythonanywhere.com/udacity/blog).
+available [here](http://schumacher.pythonanywhere.com/udacity/blogpost).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
